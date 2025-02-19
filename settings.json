@@ -1,0 +1,18 @@
+{
+  "api_type": "azure_openai",
+  "ollama_host": "http://localhost:11434",
+  "ollama_model": "hf.co/unsloth/phi-4-GGUF:latest",
+  "openai_api_url": "https://api.openai.com/v1/chat/completions",
+  "openai_api_key": "",
+  "openai_model": "gpt-4o-mini",
+  "azure_openai_endpoint": "https://ai-boadisamson7364ai371351456787.services.ai.azure.com/models",
+  "azure_openai_deployment": "Meta-Llama-3-8B-Instruct",
+  "azure_openai_api_version": "2024-05-01-preview",
+  "azure_openai_api_key": "",
+  "error_sensitivity": "medium",
+  "auto_intercept": true,
+  "min_error_level": "Error",
+  "group_similar_errors": true,
+  "error_history_size": 3,
+  "analyze_all_errors": true
+}
